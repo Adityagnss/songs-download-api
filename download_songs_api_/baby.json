@@ -1,0 +1,288 @@
+{
+   "albums": {
+      "data": [
+         {
+            "id": "46577766",
+            "title": "Baby",
+            "image": "https://c.saavncdn.com/732/Baby-Telugu-2023-20230710131123-50x50.jpg",
+            "music": "Vijai Bulganin",
+            "url": "https://www.jiosaavn.com/album/baby/s,8FxfTZL4A_",
+            "type": "album",
+            "description": "2023 · Telugu Film · Vijai Bulganin",
+            "ctr": 4331,
+            "position": 1,
+            "more_info": {
+               "year": "2023",
+               "is_movie": "1",
+               "language": "telugu",
+               "song_pids": "Z19qWKz9, 45HH6Gzq, qWUdw7_V, 3iAvpf6i, xud5kvD0, HBs7jUEQ, zb4I_T67"
+            }
+         },
+         {
+            "id": "22889423",
+            "title": "Baby Girl",
+            "image": "https://c.saavncdn.com/467/Baby-Girl-Hindi-2020-20220825171743-50x50.jpg",
+            "music": "Guru Randhawa, Dhvani Bhanushali",
+            "url": "https://www.jiosaavn.com/album/baby-girl/d-bwgRnLvPs_",
+            "type": "album",
+            "description": "2020 · Punjabi Album · Guru Randhawa, Dhvani Bhanushali",
+            "ctr": 381,
+            "position": 2,
+            "more_info": {
+               "year": "2020",
+               "is_movie": "",
+               "language": "punjabi",
+               "song_pids": "rjJKKM65"
+            }
+         },
+         {
+            "id": "21411279",
+            "title": "Baby Shark",
+            "image": "https://c.saavncdn.com/895/Baby-Shark-English-2020-20200714011033-50x50.jpg",
+            "music": "Mini  Stars, Pinkfong",
+            "url": "https://www.jiosaavn.com/album/baby-shark/wBok9jbARqM_",
+            "type": "album",
+            "description": "2020 · English Album · Mini  Stars, Pinkfong",
+            "ctr": 258,
+            "position": 3,
+            "more_info": {
+               "year": "2020",
+               "is_movie": "",
+               "language": "english",
+               "song_pids": "EUAbHI71"
+            }
+         },
+         {
+            "id": "26431458",
+            "title": "Jalebi Baby",
+            "image": "https://c.saavncdn.com/429/Jalebi-Baby-English-2021-20210413130421-50x50.jpg",
+            "music": "Tesher",
+            "url": "https://www.jiosaavn.com/album/jalebi-baby/9tJMKsFKr4Y_",
+            "type": "album",
+            "description": "2021 · English Album · Tesher",
+            "ctr": 37,
+            "position": 4,
+            "more_info": {
+               "year": "2021",
+               "is_movie": "",
+               "language": "english",
+               "song_pids": "S_7hWSeE"
+            }
+         },
+         {
+            "id": "52443527",
+            "title": "Baby Bring It On (From \"Madgaon Express\")",
+            "image": "https://c.saavncdn.com/390/Baby-Bring-It-On-From-Madgaon-Express-Hindi-2024-20240308104440-50x50.jpg",
+            "music": "Ajay - Atul, Ajay Gogavale, Nikhita Gandhi",
+            "url": "https://www.jiosaavn.com/album/baby-bring-it-on-from-madgaon-express/jAT3ZY33KJc_",
+            "type": "album",
+            "description": "2024 · Hindi Album · Ajay - Atul, Ajay Gogavale, Nikhita Gandhi",
+            "ctr": 227,
+            "position": 5,
+            "more_info": {
+               "year": "2024",
+               "is_movie": "",
+               "language": "hindi",
+               "song_pids": "JFg_sX3B"
+            }
+         }
+      ],
+      "position": 2
+   },
+   "songs": {
+      "data": [
+         {
+            "id": "H0IRhlNT",
+            "title": "Baby",
+            "image": "https://c.saavncdn.com/728/My-World-2-0-English-2010-20200606003742-50x50.jpg",
+            "album": "My World 2.0",
+            "url": "https://www.jiosaavn.com/song/baby/OFgiYxxceWc",
+            "type": "song",
+            "description": "Justin Bieber · My World 2.0",
+            "ctr": 4350,
+            "position": 1,
+            "more_info": {
+               "vcode": "010912291155887",
+               "vlink": "https://jiotunepreview.jio.com/content/Converted/010912291112317.mp3",
+               "primary_artists": "Justin Bieber",
+               "singers": "Justin Bieber",
+               "video_available": null,
+               "triller_available": false,
+               "language": "english"
+            }
+         },
+         {
+            "id": "2DIyeoMO",
+            "title": "Baby Doll",
+            "image": "https://c.saavncdn.com/536/Ragini-MMS-2-2014-50x50.jpg",
+            "album": "Ragini MMS 2",
+            "url": "https://www.jiosaavn.com/song/baby-doll/QiwiSBFfenw",
+            "type": "song",
+            "description": "Ragini MMS 2 · Meet Bros Anjjan, Kanika Kapoor",
+            "ctr": 1564,
+            "position": 2,
+            "more_info": {
+               "vcode": "010910091649099",
+               "vlink": "https://jiotunepreview.jio.com/content/Converted/010910091605776.mp3",
+               "primary_artists": "Meet Bros Anjjan, Kanika Kapoor",
+               "singers": "Kanika Kapoor, Meet Bros Anjjan",
+               "video_available": null,
+               "triller_available": false,
+               "language": "hindi"
+            }
+         },
+         {
+            "id": "rjJKKM65",
+            "title": "Baby Girl",
+            "image": "https://c.saavncdn.com/467/Baby-Girl-Hindi-2020-20220825171743-50x50.jpg",
+            "album": "Baby Girl",
+            "url": "https://www.jiosaavn.com/song/baby-girl/AgIhej99AQY",
+            "type": "song",
+            "description": "Baby Girl · Guru Randhawa, Dhvani Bhanushali",
+            "ctr": 221,
+            "position": 3,
+            "more_info": {
+               "vcode": "010910091185258",
+               "vlink": "https://jiotunepreview.jio.com/content/Converted/010910091141765.mp3",
+               "primary_artists": "Guru Randhawa, Dhvani Bhanushali",
+               "singers": "Guru Randhawa, Dhvani Bhanushali",
+               "video_available": null,
+               "triller_available": false,
+               "language": "punjabi"
+            }
+         },
+         {
+            "id": "zhIYF9_k",
+            "title": "Baby",
+            "image": "https://c.saavncdn.com/749/Baby-Haryanvi-2019-20191101183411-50x50.jpg",
+            "album": "Baby",
+            "url": "https://www.jiosaavn.com/song/baby/CgAiaDIJaFg",
+            "type": "song",
+            "description": "Baby · Raju Punjabi, KD",
+            "ctr": 7,
+            "position": 4,
+            "more_info": {
+               "vcode": "010911261033672",
+               "vlink": "https://jiotunepreview.jio.com/content/Converted/010911260988596.mp3",
+               "primary_artists": "Raju Punjabi, KD",
+               "singers": "Raju Punjabi, KD",
+               "video_available": null,
+               "triller_available": false,
+               "language": "haryanvi"
+            }
+         },
+         {
+            "id": "_GIuQbB_",
+            "title": "Rowdy Baby",
+            "image": "https://c.saavncdn.com/276/Maari-2-Tamil-2018-20230815210409-50x50.jpg",
+            "album": "Maari 2",
+            "url": "https://www.jiosaavn.com/song/rowdy-baby/Ly8iRCVSdWw",
+            "type": "song",
+            "description": "Maari 2 · Dhanush, Dhee",
+            "ctr": 1148,
+            "position": 5,
+            "more_info": {
+               "vcode": "010910620908734",
+               "vlink": "https://jiotunepreview.jio.com/content/Converted/010910620863586.mp3",
+               "primary_artists": "Dhanush, Dhee",
+               "singers": "",
+               "video_available": null,
+               "triller_available": false,
+               "language": "tamil"
+            }
+         }
+      ],
+      "position": 3
+   },
+   "playlists": {
+      "data": [
+         {
+            "id": "1039437088",
+            "title": "Baby Lullaby - Spotlight",
+            "image": "https://c.saavncdn.com/editorial/spotlight-1039437088_20230226205820_50x50.jpg",
+            "extra": "Saavn",
+            "url": "https://www.jiosaavn.com/featured/baby-lullaby-spotlight/IUDyJ7BcMmTDN85e-DKVsA__",
+            "language": "english",
+            "type": "playlist",
+            "description": "Saavn Editor",
+            "position": 1,
+            "more_info": null
+         },
+         {
+            "id": "1063606073",
+            "title": "Little Baby Bum Nursery Rhyme Friends - Spotlight",
+            "image": "https://c.saavncdn.com/editorial/spotlight-1063606073_20220629061124_50x50.jpg",
+            "extra": "Saavn",
+            "url": "https://www.jiosaavn.com/featured/little-baby-bum-nursery-rhyme-friends-spotlight/fw-6atTwt,58497ZNqIDKA__",
+            "language": "english",
+            "type": "playlist",
+            "description": "Saavn Editor",
+            "position": 2,
+            "more_info": null
+         },
+         {
+            "id": "804632618",
+            "title": "Let's Play - DaBaby",
+            "image": "https://c.saavncdn.com/editorial/logo/LetsPlayDaBaby_20210115021416_50x50.jpg",
+            "extra": "Saavn",
+            "url": "https://www.jiosaavn.com/featured/lets-play-dababy/w76qNf-NSiJFo9wdEAzFBA__",
+            "language": "english",
+            "type": "playlist",
+            "description": "Saavn Editor",
+            "position": 3,
+            "more_info": null
+         }
+      ],
+      "position": 4
+   },
+   "artists": {
+      "data": [
+         {
+            "id": "482458",
+            "title": "Baby Shamili",
+            "image": "https://c.saavncdn.com/artists/Baby_Shamili_20190614161639_50x50.jpg",
+            "extra": "actor",
+            "url": "https://www.jiosaavn.com/artist/baby-shamili-songs/xSBHQeeLjLw_",
+            "type": "artist",
+            "description": "Actor",
+            "ctr": 12,
+            "entity": 1,
+            "position": 1
+         }
+      ],
+      "position": 1
+   },
+   "topquery": {
+      "data": [
+         {
+            "id": "H0IRhlNT",
+            "title": "Baby",
+            "image": "https://c.saavncdn.com/728/My-World-2-0-English-2010-20200606003742-50x50.jpg",
+            "album": "My World 2.0",
+            "url": "https://www.jiosaavn.com/song/baby/OFgiYxxceWc",
+            "type": "song",
+            "description": "Song by Justin Bieber",
+            "ctr": 4350,
+            "position": 1,
+            "more_info": {
+               "vcode": "010912291155887",
+               "vlink": "https://jiotunepreview.jio.com/content/Converted/010912291112317.mp3",
+               "primary_artists": "Justin Bieber",
+               "singers": "Justin Bieber",
+               "video_available": null,
+               "triller_available": false,
+               "language": "english"
+            }
+         }
+      ],
+      "position": 0
+   },
+   "shows": {
+      "data": [],
+      "position": 5
+   },
+   "episodes": {
+      "data": [],
+      "position": 6
+   }
+}

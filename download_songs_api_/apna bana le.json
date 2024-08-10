@@ -1,0 +1,236 @@
+{
+   "albums": {
+      "data": [
+         {
+            "id": "49090038",
+            "title": "Apna Bana Le Lofi Mix by Artist L3AD",
+            "image": "https://c.saavncdn.com/709/Apna-Bana-Le-Lofi-Mix-by-Artist-L3AD-Hindi-2023-20231018174428-50x50.jpg",
+            "music": "Sachin-Jigar, Arijit Singh",
+            "url": "https://www.jiosaavn.com/album/apna-bana-le-lofi-mix-by-artist-l3ad/c-csNBy-mkQ_",
+            "type": "album",
+            "description": "2023 · Hindi Album · Sachin-Jigar, Arijit Singh",
+            "ctr": 79,
+            "position": 1,
+            "more_info": {
+               "year": "2023",
+               "is_movie": "",
+               "language": "hindi",
+               "song_pids": "bYiJ0NHH"
+            }
+         },
+         {
+            "id": "43865876",
+            "title": "Apna Bana Le - Soprano Saxophone Version",
+            "image": "https://c.saavncdn.com/582/Apna-Bana-Le-Soprano-Saxophone-Version-Hindi-2023-20230324180655-50x50.jpg",
+            "music": "Raghav Sachar",
+            "url": "https://www.jiosaavn.com/album/apna-bana-le-soprano-saxophone-version/jdkbiHZ,mdY_",
+            "type": "album",
+            "description": "2023 · Hindi Album · Raghav Sachar",
+            "ctr": 55,
+            "position": 2,
+            "more_info": {
+               "year": "2023",
+               "is_movie": "",
+               "language": "hindi",
+               "song_pids": "M6JN2wdY"
+            }
+         },
+         {
+            "id": "38682222",
+            "title": "Bhediya",
+            "image": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-50x50.jpg",
+            "music": "Sachin-Jigar",
+            "url": "https://www.jiosaavn.com/album/bhediya/wSM2AOubajk_",
+            "type": "album",
+            "description": "2023 · Hindi Film · Sachin-Jigar",
+            "ctr": 1184,
+            "position": 3,
+            "more_info": {
+               "year": "2023",
+               "is_movie": "1",
+               "language": "hindi",
+               "song_pids": "aaM63gE_, qZtKBMZ_, dKn4xHLy, 08WL1nS_, 5_0UAgTT, EN4TYeDP"
+            }
+         },
+         {
+            "id": "29109700",
+            "title": "Apna Bana Le Bhole",
+            "image": "https://c.saavncdn.com/029/Apna-Bana-Le-Bhole-Hindi-2021-20210818121712-50x50.jpg",
+            "music": "Sundeep Gosswami",
+            "url": "https://www.jiosaavn.com/album/apna-bana-le-bhole/ZCUbfKQawBA_",
+            "type": "album",
+            "description": "2021 · Hindi Album · Sundeep Gosswami",
+            "ctr": 15,
+            "position": 4,
+            "more_info": {
+               "year": "2021",
+               "is_movie": "",
+               "language": "hindi",
+               "song_pids": "LC7pYdYR"
+            }
+         },
+         {
+            "id": "45819867",
+            "title": "Apna Bana Le Bulleya",
+            "image": "https://c.saavncdn.com/125/Apna-Bana-Le-Bulleya-Hindi-2023-20230628132536-50x50.jpg",
+            "music": "Mohit Chauhan",
+            "url": "https://www.jiosaavn.com/album/apna-bana-le-bulleya/FsNGq,CdexM_",
+            "type": "album",
+            "description": "2023 · Hindi Album · Mohit Chauhan",
+            "ctr": 0,
+            "position": 5,
+            "more_info": {
+               "year": "2023",
+               "is_movie": "",
+               "language": "hindi",
+               "song_pids": "mv62qMBV"
+            }
+         }
+      ],
+      "position": 1
+   },
+   "songs": {
+      "data": [
+         {
+            "id": "qZtKBMZ_",
+            "title": "Apna Bana Le",
+            "image": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-50x50.jpg",
+            "album": "Bhediya",
+            "url": "https://www.jiosaavn.com/song/apna-bana-le/ATIfejZ9bWw",
+            "type": "song",
+            "description": "Bhediya · Sachin-Jigar, Arijit Singh",
+            "ctr": 16240,
+            "position": 1,
+            "more_info": {
+               "vcode": "010910441729728",
+               "vlink": "https://jiotunepreview.jio.com/content/Converted/010910441686043.mp3",
+               "primary_artists": "Sachin-Jigar, Arijit Singh",
+               "singers": "Sachin-Jigar, Arijit Singh",
+               "video_available": null,
+               "triller_available": false,
+               "language": "hindi"
+            }
+         },
+         {
+            "id": "08WL1nS_",
+            "title": "Apna Bana Le - Sakshi Holkar",
+            "image": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-50x50.jpg",
+            "album": "Bhediya",
+            "url": "https://www.jiosaavn.com/song/apna-bana-le-sakshi-holkar/QFA8fUVeZGw",
+            "type": "song",
+            "description": "Bhediya · Sachin-Jigar, Sakshi Holkar",
+            "ctr": 438,
+            "position": 2,
+            "more_info": {
+               "vcode": "010910441794871",
+               "vlink": "https://jiotunepreview.jio.com/content/Converted/010910441751408.mp3",
+               "primary_artists": "Sachin-Jigar, Sakshi Holkar",
+               "singers": "Sachin-Jigar, Sakshi Holkar",
+               "video_available": null,
+               "triller_available": false,
+               "language": "hindi"
+            }
+         },
+         {
+            "id": "aaM63gE_",
+            "title": "Apna Bana Le - Akhil Sachdeva Version",
+            "image": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-50x50.jpg",
+            "album": "Bhediya",
+            "url": "https://www.jiosaavn.com/song/apna-bana-le-akhil-sachdeva-version/EQkmB0dXcmw",
+            "type": "song",
+            "description": "Bhediya · Akhil Sachdeva",
+            "ctr": 122,
+            "position": 3,
+            "more_info": {
+               "vcode": "010910442099929",
+               "vlink": "https://jiotunepreview.jio.com/content/Converted/010910442056096.mp3",
+               "primary_artists": "Akhil Sachdeva",
+               "singers": "Akhil Sachdeva",
+               "video_available": null,
+               "triller_available": false,
+               "language": "hindi"
+            }
+         },
+         {
+            "id": "bYiJ0NHH",
+            "title": "Apna Bana Le Lofi Mix by Artist L3AD",
+            "image": "https://c.saavncdn.com/709/Apna-Bana-Le-Lofi-Mix-by-Artist-L3AD-Hindi-2023-20231018174428-50x50.jpg",
+            "album": "Apna Bana Le Lofi Mix by Artist L3AD",
+            "url": "https://www.jiosaavn.com/song/apna-bana-le-lofi-mix-by-artist-l3ad/EjECe0R,f3s",
+            "type": "song",
+            "description": "Apna Bana Le Lofi Mix by Artist L3AD · Sachin-Jigar, Arijit Singh",
+            "ctr": 76,
+            "position": 4,
+            "more_info": {
+               "vcode": "010910442121691",
+               "vlink": "https://jiotunepreview.jio.com/content/Converted/010910442077298.mp3",
+               "primary_artists": "Sachin-Jigar, Arijit Singh",
+               "singers": "",
+               "video_available": null,
+               "triller_available": false,
+               "language": "hindi"
+            }
+         },
+         {
+            "id": "M6JN2wdY",
+            "title": "Apna Bana Le - Soprano Saxophone Version",
+            "image": "https://c.saavncdn.com/582/Apna-Bana-Le-Soprano-Saxophone-Version-Hindi-2023-20230324180655-50x50.jpg",
+            "album": "Apna Bana Le - Soprano Saxophone Version",
+            "url": "https://www.jiosaavn.com/song/apna-bana-le-soprano-saxophone-version/PV4hf0ZHU2o",
+            "type": "song",
+            "description": "Apna Bana Le - Soprano Saxophone Version · Raghav Sachar",
+            "ctr": 196,
+            "position": 5,
+            "more_info": {
+               "primary_artists": "Raghav Sachar",
+               "singers": "Raghav Sachar",
+               "video_available": null,
+               "triller_available": false,
+               "language": "hindi"
+            }
+         }
+      ],
+      "position": 2
+   },
+   "playlists": {
+      "data": [],
+      "position": 3
+   },
+   "artists": {
+      "data": [],
+      "position": 4
+   },
+   "topquery": {
+      "data": [
+         {
+            "id": "qZtKBMZ_",
+            "title": "Apna Bana Le",
+            "image": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-50x50.jpg",
+            "album": "Bhediya",
+            "url": "https://www.jiosaavn.com/song/apna-bana-le/ATIfejZ9bWw",
+            "type": "song",
+            "description": "Song by Sachin-Jigar and Arijit Singh",
+            "ctr": 16240,
+            "position": 1,
+            "more_info": {
+               "vcode": "010910441729728",
+               "vlink": "https://jiotunepreview.jio.com/content/Converted/010910441686043.mp3",
+               "primary_artists": "Sachin-Jigar, Arijit Singh",
+               "singers": "Sachin-Jigar, Arijit Singh",
+               "video_available": null,
+               "triller_available": false,
+               "language": "hindi"
+            }
+         }
+      ],
+      "position": 0
+   },
+   "shows": {
+      "data": [],
+      "position": 5
+   },
+   "episodes": {
+      "data": [],
+      "position": 6
+   }
+}
